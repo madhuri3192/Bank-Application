@@ -25,7 +25,7 @@ public class Main {
 		    System.out.println("press 7 for exit from application");
 			int value = sc.nextInt();
 			switch(value) {
-				case 1: createBankAccount(sc,bank);break;
+				case 1: createBankAccount(sc,bank);break; //asndasjdasda
 				case 2: checkBalance(sc,bank);break;
 				case 3: depositeMoney(sc,bank);break;
 				case 4: withdrawlMoney(sc,bank);break;
