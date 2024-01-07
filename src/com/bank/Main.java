@@ -30,7 +30,7 @@ public class Main {
 				case 3: depositeMoney(sc,bank);break;
 				case 4: withdrawlMoney(sc,bank);break;
 				case 5: showTransactions(sc,bank); break;
-				case 6: takeBank(sc);break;
+				case 6: takeBank(sc);break;//
 				case 7: flag=false;
 						System.out.println("Application going down");
 						break;
